@@ -9,3 +9,5 @@ The calculator is capable of performing:
 - Exponentiation
 
 The user can interact with the calculator by both typing on their keyboard or through the buttons provided in the UI.
+
+The application is live here -> https://eyeo-calculator.herokuapp.com/index.html
